@@ -1,2 +1,4 @@
 # defx_karaoke
-DeFX Karaoke ported in Juce
+DeFX Karaoke ported using Juce framework
+
+https://defx.sourceforge.net/
